@@ -1,4 +1,4 @@
-#This app:
+#This app (example of inheritance):
 # - creates random rectangle
 # - asks user to enter coordinates of a point inside the rectangle and to guess rectangles area
 # - prints answer if the point inside the rectangle and offset from the actual area
