@@ -1,0 +1,6 @@
+This application gets search word from user and searches the internet for picture according to this word.
+Objects:
+        MainApp (App)
+        RootWidget (ScreenManager)
+        FirstScreen (Screen)
+        Widget (Button, TextInput, Image, etc.)
