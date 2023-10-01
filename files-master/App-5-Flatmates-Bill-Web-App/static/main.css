@@ -23,4 +23,5 @@ input[type=submit]{
 body {
     background-color: GhostWhite;
     padding: 20px;
+    font-size: 20px;
 }

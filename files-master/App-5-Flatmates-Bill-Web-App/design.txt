@@ -1,0 +1,7 @@
+This web up would use flatmates_bill app to calculate bill amount for each flatmate.
+
+Classes:
+    HomePage
+    BillFormPage
+    BillForm
+    ResultsPage
