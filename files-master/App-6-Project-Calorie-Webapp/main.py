@@ -23,7 +23,7 @@ class CaloriesCalculatorFormPage(MethodView):
         """ Get temperature """
         temperature = Temperature(country=calories_calculator_form.country.data,
                                   city=calories_calculator_form.city.data).get()
-        """ Create Calories calculator"""
+        """ Calculate calories"""
         calories = CalorieCalculator(weight=float(calories_calculator_form.weight.data),
                                      height=float(calories_calculator_form.height.data),
                                      age=float(calories_calculator_form.age.data),
